@@ -12,6 +12,6 @@ I hope you find what you are looking for.
 
 **My Background**: I am a mental health professional in Bloomington, Indiana, originally from NewYork City. I have degrees from The City College of New York and Indiana University.
 
-**My Genre**: I write psychological thrillers for Adults, sometimes injected with humor.
+**My Genre**: I write psychological thrillers for Adults, sometimes injected with humor. Here is a list of my [publications](/publications).
 
 ![Take Me Out the Back cover](assets/img/takemeoutthebackcover.png)
