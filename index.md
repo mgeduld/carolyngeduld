@@ -4,23 +4,14 @@ image: /assets/img/hydejack-8.png
 hide_description: true
 ---
 
-# Thank You
-Thank you for buying the PRO version of Hydejack! 🎉
+## Welcome to my website. 
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown, with my own editor, one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+I hope you find what you are looking for.
 
-## First Steps
-Please start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+[Pre-order my first novel, *Take Me Out The Back* before August 27, 2020, go to](https://www.blackrosewriting.com/thrillers/takemeouttheback) and use code PREORDER2020 for a 15% discount.
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+**My Background**: I am a mental health professional in Bloomington, Indiana, originally from NewYork City. I have degrees from The City College of New York and Indiana University.
 
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+**My Genre**: I write psychological thrillers for Adults, sometimes injected with humor.
+
+![Take Me Out the Back cover](assets/img/takemeoutthebackcover.png)

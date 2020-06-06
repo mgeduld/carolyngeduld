@@ -24,12 +24,12 @@ title:                 Carolyn Geduld
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Website of short-story writer and novelist Carolyn Geduld".
+  Website of short-story writer and novelist Carolyn Geduld.
   Caroyln is the author of the novel *Take Me Out the Back* and many short stories.
 
 # A shorter description for the sidebar.
 tagline:               >
-  "author of the novel *Take Me Out the Back*".
+  author of the novel *Take Me Out the Back*.
 
 # A list of keywords for your blog
 keywords:              [writer, author, fiction, novel, novelist, story, stories]
@@ -45,17 +45,18 @@ author:
   email:               cgeduld1@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             CarolynGeduld
+  facebook:            Carolyn-Geduld-Author-112047537150330
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Projects
-    url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+  #- title:             Blog
+  #  url:               /blog/
+  - title:             Publictions
+    url:               /publications/
+  #- title:             Résumé*
+  #  url:               /resume/
+  #- title:             Documentation
+  #  url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
