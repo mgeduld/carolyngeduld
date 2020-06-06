@@ -52,7 +52,7 @@ menu:
   #- title:             Blog
   #  url:               /blog/
   - title:             About
-    url:               /index/      
+    url:               /about/      
   - title:             Publications
     url:               /publications/
   - title:             Pre-order "Take Me Out the Back" (15% discount with code PREORDER2020)
