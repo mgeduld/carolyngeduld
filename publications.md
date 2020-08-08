@@ -12,8 +12,6 @@ For a 15% discount, use code PREORDER2020.
 
 ## Stories
 
-- [The Writers and Readers Magazine. *Who By Earthquake* Free on Kindle Unlimited. May/June 2020. pp.81-82.](https://www.amazon.co.uk/Writers-Readers-Magazine-June-Issue-ebook/dp/B089NT628P/ref=sr_1_1?dchild=1&keywords=The+Writers+and+Readers+magazine&qid=1591527700&s=digital-text&sr=1-1&fbclid=IwAR0hb8dmffBD2CqBbBTfhkHNCuwZso_WvLwdd38JceVBE1FLW-3Vyrx9t1o)
-
 - Not Your Mothers Breastmilk. Online. (Defunct.) *The Pink Envelop,* April 26, 2019
 
 - Pennsylvania Literary Review.  Volume XI, Issue 1. *The Timid Mayor.* Spring, 2019. P. 230-236
@@ -66,28 +64,11 @@ CC&D magazine. Volume 294. February 16, 2020. P.
 
 - Writers in Lockdown (anthology). *Who Shall Profit.* July, 2020. Pp: 197-204.
 
-## Forthcoming:
-
-- Consequences. *Cousins.* Forthcoming. June 2020.
-
-- Rape Escapes. *Strange Fire.* Forthcoming 2020.
-
-- Steam Ticket Journal. Volume 23. *Who By Fire.* University of Wisconsin at La Crosse. Forthcoming, 2020.
-
-- Rabbit Hole Anthology. *Who By Famine.* Forthcoming, 2020.
-
-- Red Coyote. *Who Shall Wander.* University of South Dakota. Forthcoming May, 2020.
-
-- Backchannels. *Who Shall Be Uplifted* Forthcoming July 2020
-
-- Writers in Lockdown (anthology). *Who Shall Profit.* Forthcoming Summer 2020
-
-- The Blue Nib, *Who By Wild Beast* Issue 42. July, 2020
-
+## Forthcoming
 - Bookends Review. Online. *Who By Stoning*  9/11/2
 
 - Rabbit Hole Anthology. “Who By Famine.” October 17, 2020.
 
 - Rape Escapes. *Strange Fire.*
 
-- Red Coyote. *Who Shall Wander.* University of South Dakota. 2020.
+- Red Coyote. *Who Shall Wander.* University of South Dakota. Forthcoming May, 2020.
