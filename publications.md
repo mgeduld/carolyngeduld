@@ -48,14 +48,23 @@ CC&D magazine. Volume 294. February 16, 2020. P.
 
 - [Unlikely Stories Mark V. Online. *Same Name.* February 10-22, 2020.](https://www.unlikelystories.org/content/same-name)
 
-
 - [JerseyJazzMusician. Online. *Oblivious.* April 6, 2020.](https://jerryjazzmusician.com/category/literature/short-fiction-literature)
-
 
 - [Submittable Blog. Online. *7 Benefits of Being a Senior-Citizen Writer.*  April 16, 2020.](https://discover.submittable.com/blog/7-benefits-of-being-a-senior-citizen-writer/?fbclid=IwAR2hbQAM9ldxi9SFVR5J6gbBS4Snw542BuAsAdbdZqR_dXQDiSDyIb6APVk)
 
-- Infected. Vol.1: Tales to Read At Home. *Who By Plague.* Spring, 2020. P. 73-83. 
+- Infected. Vol.1: Tales to Read At Home. *Who By Plague.* Spring, 2020. P. 73-83.
 
+- [The Blue Nib. Online. *Who By Wild Beast.* May 30, 2020.](https://thebluenib.com/who-by-wild-beast-short-fiction-by-by-carolyn-geduld/)
+
+- The Writers and Readers Magazine. *Who By Earthquake.* May/June 2020. pp. 81-82
+
+- Consequences. *Cousins*. Volume 12, June 2020, pp.67-70.
+
+- Steam Ticket Journal. Volume 23. *Who By Fire*. University of Wisconsin at La Crosse. June, 2020. Pp. 88-96.
+
+- [Backchannels. *Who Shall Be Uplifted* July 2020](https://www.backchannelsjournal.net/edition-no-5-2020)
+
+- Writers in Lockdown (anthology). *Who Shall Profit.* July, 2020. Pp: 197-204.
 
 ## Forthcoming:
 
@@ -75,6 +84,10 @@ CC&D magazine. Volume 294. February 16, 2020. P.
 
 - The Blue Nib, *Who By Wild Beast* Issue 42. July, 2020
 
-- Bookends Review. Online. *Who By Stoning*  9/11/20
+- Bookends Review. Online. *Who By Stoning*  9/11/2
 
-- *Oblivious: Stories of Racism and White Privilege*
+- Rabbit Hole Anthology. “Who By Famine.” October 17, 2020.
+
+- Rape Escapes. *Strange Fire.*
+
+- Red Coyote. *Who Shall Wander.* University of South Dakota. 2020.

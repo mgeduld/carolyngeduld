@@ -55,8 +55,8 @@ menu:
     url:               /about/      
   - title:             Publications
     url:               /publications/
-  - title:             Pre-order "Take Me Out the Back" (15% discount with code PREORDER2020)
-    url:               https://www.blackrosewriting.com/thrillers/takemeouttheback
+  - title:             Pre-order "Take Me Out the Back"
+    url:               https://www.amazon.com/Take-Out-Back-Carolyn-Geduld/dp/1684335094/ref=sr_1_1?crid=11ADTU82RLW5&dchild=1&keywords=take+me+out+the+back&qid=1596908521&s=books&sprefix=Take+me+out+%2Caps%2C164&sr=1-1
   #- title:             Résumé*
   #  url:               /resume/
   #- title:             Documentation
