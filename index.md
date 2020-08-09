@@ -3,12 +3,6 @@ cover: true
 image: /assets/img/hydejack-8.png
 hide_description: true
 ---
-
----
-cover: true
-image: /assets/img/hydejack-8.png
-hide_description: true
----
 ## Welcome to my website. 
 
 I write psychological fiction for adults, sometimes injected with humor. You can find me on [Facebook](https://www.facebook.com/Carolyn-Geduld-Author-112047537150330), [Twitter](https://twitter.com/CarolynGeduld), [Amazon](https://www.amazon.com/author/carolyngeduld), (and Goodreads](https://www.goodreads.com/author/show/100316.Carolyn_Geduld)
