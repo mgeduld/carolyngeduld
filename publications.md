@@ -6,7 +6,7 @@ title:  Publications
 [Order](https://read.amazon.com/kp/embed?asin=B08B1LV1RX&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_nTSsFbS4V1DB1) my first novel, *Take Me Out The Back*.
 ## Work in Progress 
 
-My second novel is *Who Shall Live.* In this thriller, set before and during the pandemic, residents of a small Indiana University town and of a forest commune are shaken by the death of two boys named Adam and the disappearance of a girl named Eva. The title is inspired by the Jewish prayer about fate, Unetaneh Tokef.
+My second novel is *Who Shall Live.* Why has a four-year-old girl and her grandmother disappeared from a Jewish community in a small Indiana university town in 2004? Are they hidden in the nearby mystical forest? Will they offer a woodland refuge to townspeople fleeing the virus in 2020? And what is the crime that marks the two women and so many members of the community between the years 2004 and 2035?.
 ## Stories
 
 - Not Your Mothers Breastmilk. Online. (Defunct.) *The Pink Envelop,* April 26, 2019
