@@ -72,3 +72,5 @@ CC&D magazine. Volume 294. February 16, 2020. P.
 - Rape Escapes. *Strange Fire.*
 
 - Red Coyote. *Who Shall Wander.* University of South Dakota. Forthcoming May, 2020.
+
+- Newtown Literary. “The Tourist” Fall/Winter 2020.
