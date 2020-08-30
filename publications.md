@@ -3,9 +3,8 @@ layout: page
 title:  Publications
 ---
 
-## Work in Progress 
-
 [Order](https://read.amazon.com/kp/embed?asin=B08B1LV1RX&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_nTSsFbS4V1DB1) my first novel, *Take Me Out The Back*.
+## Work in Progress 
 
 My second novel is *Who Shall Live.* In this thriller, set before and during the pandemic, residents of a small Indiana University town and of a forest commune are shaken by the death of two boys named Adam and the disappearance of a girl named Eva. The title is inspired by the Jewish prayer about fate, Unetaneh Tokef.
 ## Stories
