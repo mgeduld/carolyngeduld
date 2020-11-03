@@ -49,25 +49,30 @@ CC&D magazine. Volume 294. February 16, 2020. P.
 
 - Infected. Vol.1: Tales to Read At Home. *Who By Plague.* Spring, 2020. P. 73-83.
 
+- Red Coyote. *Who Shall Wander.* University of South Dakota. May, 2020. Pp. 25-29.
+
 - [The Blue Nib. Online. *Who By Wild Beast.* May 30, 2020.](https://thebluenib.com/who-by-wild-beast-short-fiction-by-by-carolyn-geduld/)
 
-- The Writers and Readers Magazine. *Who By Earthquake.* May/June 2020. pp. 81-82
+- The Writers and Readers Magazine. *Who By Earthquake.* May/June, 2020. pp. 81-82
 
-- Consequences. *Cousins*. Volume 12, June 2020, pp.67-70.
+- Consequences. *Cousins*. Volume 12, June, 2020, pp.67-70.
 
 - Steam Ticket Journal. Volume 23. *Who By Fire*. University of Wisconsin at La Crosse. June, 2020. Pp. 88-96.
 
-- [Backchannels. *Who Shall Be Uplifted* July 2020](https://www.backchannelsjournal.net/edition-no-5-2020)
+- [Backchannels. *Who Shall Be Uplifted*. July, 2020](https://www.backchannelsjournal.net/edition-no-5-2020)
 
 - Writers in Lockdown (anthology). *Who Shall Profit.* July, 2020. Pp: 197-204.
 
+- [Bookends Review. Online. *Who By Stoning*. September, 2020](http://thebookendsreview.com/page/5/?fbclid=IwAR0BKt-vP25KxAAFVSNsdIhMrClZyLiXXrWbsarP8uXXvsAj0pyCT8ajRHs)
+
+- Rabbit Hole Anthology. Volume 3. *Who By Famine*. October, 2020. Pp. 29-40.
+
+- [The Medley. Online. *Who Shall Wander*. October, 2020](https://themedley.in/issue5/fiction/who-by-sword/)
+
 ## Forthcoming
-- Bookends Review. Online. *Who By Stoning*  9/11/2
 
-- Rabbit Hole Anthology. “Who By Famine.” October 17, 2020.
+- Newtown Literary. *The Tourist* Fall/Winter 2020.
 
-- Rape Escapes. *Strange Fire.*
+- Abstract Elephant. *Clean Kitchen* Winter 2021.
 
-- Red Coyote. *Who Shall Wander.* University of South Dakota. Forthcoming May, 2020.
-
-- Newtown Literary. “The Tourist” Fall/Winter 2020.
+- Rape Escapes Anthology. *Strange Fire*.
