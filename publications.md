@@ -3,15 +3,24 @@ layout: page
 title:  Publications
 ---
 
-[Order](https://read.amazon.com/kp/embed?asin=B08B1LV1RX&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_nTSsFbS4V1DB1) my first novel, *Take Me Out The Back*.
-## Work in Progress 
+[Order](https://read.amazon.com/kp/embed?asin=B08B1LV1RX&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_nTSsFbS4V1DB1) *Take Me Out The Back*.
 
-My second novel is *Who Shall Live.* Why has a four-year-old girl and her grandmother disappeared from a Jewish community in a small Indiana university town in 2004? Are they hidden in the nearby mystical forest? Will they offer a woodland refuge to townspeople fleeing the virus in 2020? And what is the crime that marks the two women and so many members of the community between the years 2004 and 2035?.
+A mass shooting in a nursing home rocks a southern Indiana town. The ripple effects afflict emergency workers, the nursing home staff, town officials, and the friends and families of the victims—both immediately and for weeks and months thereafter. Chillingly, those murdered often appear as ghosts, plaguing their family members with dangerous and surprising urges. Will a copycat shooter emerge from among them to kill again?
+
+[Pre-order](https://www.amazon.com/Who-Shall-Live-Jewish-Fantasy/dp/1684337801/ref=sr_1_7?dchild=1&keywords=carolyn+geduld&qid=1625586607&sr=8-7) my second novel, *Who Shall Live: A Jewish Fantasy*.
+
+Four-year-old Eva is abducted by her grandmother from a Jewish Community in Indiana and raised in the forest. As an adult, she becomes "First Woman," leader of the Woodland Cooperative, a haven for those escaping the pandemic-including the handsome schemer, Larry. Eva betrays her community when the Cooperative is overwhelmed by invading townspeople. She flees to a secluded part of the forest with the magical book, "Roots of the Woods," after stealing a toddler boy to be a companion for her baby girl, Azura.
+
+Meanwhile, Azura's father, Isaac, dabbles in mystical Jewish practices. When Azura is in her early teens, she finds him. In an impulsive act that will have far-reaching consequences, she kidnaps her father's newborn son. Under pressure from Covid-30, she must earn her father's forgiveness and discover how to atone for three generations of missing and abducted children.
+## Forthcoming
+
+- Newtown Library. *The Tourist,* Issue 17. Fall/Winter 2020. Pp. 43-58 
+
 ## Stories
 
 - Not Your Mothers Breastmilk. Online. (Defunct.) *The Pink Envelop,* April 26, 2019
 
-- Pennsylvania Literary Review.  Volume XI, Issue 1. *The Timid Mayor.* Spring, 2019. P. 230-236
+- Pennsylvania Literary Review.  Volume XI, Issue 1. *The Timid Mayor,* Spring, 2019. P. 230-236
 
 - Otherwise Engaged:  A Literature and Arts Journal, Volume 3. Summer 2019: *Mother’s Instinct,* May 22, 2019. P. 11-18
 
